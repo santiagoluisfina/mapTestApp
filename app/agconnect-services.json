@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"5190039000024738882",
+		"product_id":"736430079244601797",
+		"client_id":"429220020132774976",
+		"client_secret":"E59A2BE0BB38E67BA0E46F76EE7D044295D11EF73DE04A589879E208BE0BFB9F",
+		"app_id":"102739923",
+		"package_name":"com.systango.maptestapp",
+		"api_key":"CgB6e3x9qfwag6SSQhliCkHP5XMcU+NMbl6RGKSBFPZHXa4AtNxpzZgJ1RiO69Y6cr73kccYRJG8JtjwWc95PzGA"
+	},
+	"configuration_version":"1.0"
+}
