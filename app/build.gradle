@@ -23,7 +23,7 @@ android {
             v2SigningEnabled true
         }
         config {
-            storeFile file('C:\\Androide\\AndroidStudioProjects\\KeyStore\\KeyStoreAppmapTestApp.jks')
+            storeFile file('/Users/anahidispari/AndroidStudioProjects/KeyStore/KeyStoreAppmapTestApp.jks')
             storePassword 'mapTest12'
             keyPassword 'mapTest12'
             keyAlias 'mapTestApp'

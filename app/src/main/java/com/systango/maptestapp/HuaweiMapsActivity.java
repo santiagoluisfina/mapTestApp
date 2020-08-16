@@ -20,7 +20,7 @@ public class HuaweiMapsActivity extends FragmentActivity implements OnMapReadyCa
 
         // Huawei map
         setContentView(R.layout.activity_maps_huawei);
-        SupportMapFragment mMapFragment = (SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.mapHuawei);
+        MapFragment mMapFragment = (MapFragment) getFragmentManager().findFragmentById(R.id.mapHuawei);
         assert mMapFragment != null;
         mMapFragment.getMapAsync(this);
         Toast.makeText(this, "Huawei Maps", Toast.LENGTH_SHORT).show();
