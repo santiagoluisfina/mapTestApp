@@ -22,6 +22,12 @@ android {
             v1SigningEnabled true
             v2SigningEnabled true
         }
+        config {
+            storeFile file('C:\\Androide\\AndroidStudioProjects\\KeyStore\\KeyStoreAppmapTestApp.jks')
+            storePassword 'mapTest12'
+            keyPassword 'mapTest12'
+            keyAlias 'mapTestApp'
+        }
     }
 
     buildTypes {
